@@ -4,6 +4,7 @@
 **Programme:** BCA (Artificial Intelligence & Data Science), 2026–29
 **Mentor:** Mrs Mamta
 **Chosen specialisation (Semester 5 onwards):** Track B — Data Science & AI/ML
+**Version:** 1.0 — created 24 November 2026 for CSE103 Lab 4, Question 4.5
 
 ---
 
