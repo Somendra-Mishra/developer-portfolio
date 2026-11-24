@@ -1,6 +1,6 @@
 # Coding Platform Progress Tracker
 
-Updated: November 2026
+Updated: 24 November 2026 (baseline — counts to be filled in after real attempts)
 
 ---
 
